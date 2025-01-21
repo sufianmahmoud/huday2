@@ -1,5 +1,3 @@
 This is one.txt file.
 Huday commit korlam.
-Ami abr huday commit korlam.
-Arek bar huday commit korlam vai.
-ami kisu ekta add korlam.
+bug fixing
